@@ -2021,7 +2021,7 @@ We are a diverse, multidisciplinary team of graduate and undergraduate students 
 **Why This Matters**: 
 ---
 
-#### Mayank Lal - 
+#### Mayank  - 
 **Background**: 
 **Relevant Experience**:
 

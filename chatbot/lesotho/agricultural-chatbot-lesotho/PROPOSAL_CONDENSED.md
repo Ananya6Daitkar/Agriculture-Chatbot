@@ -295,9 +295,10 @@ An **AI-Powered Agricultural Extension Chatbot** delivering personalized agricul
 - Strong foundation in full-stack development, cloud platforms, geospatial analysis
 
 **2. Cost-Effective**
-- **$15,000 budget** vs. $50,000-100,000+ commercial rates (88% savings)
+- Phased approach starting from $0-300 (prototype) to $20,000+ (national scale)
 - Leverage student credits: AWS Educate, GitHub Student Pack, Google Cloud, Azure
 - Open-source technologies, smart caching, efficient practices
+- Flexible funding model adapts to available budget
 
 **3. Passion for Impact**
 - Mission-driven, not profit-driven
@@ -335,7 +336,7 @@ An **AI-Powered Agricultural Extension Chatbot** delivering personalized agricul
 ### Our Commitment
 
 ✅ Functional MVP within 3 months
-✅ Stay within $15,000 budget
+✅ Flexible phased approach adapting to available funding
 ✅ Engage farmers/extension workers throughout
 ✅ Comprehensive documentation for handover
 ✅ Transparent impact measurement
@@ -402,38 +403,7 @@ An **AI-Powered Agricultural Extension Chatbot** delivering personalized agricul
 
 ## 8. Budget & Timeline
 
-### Budget Breakdown
-
-**Development (One-Time): $15,000**
-- Student team (4-6 developers, 12 months)
-- Domain experts (2 agricultural advisors, part-time)
-- Project management, testing, documentation
-- **Normal cost**: $81,000-123,000 | **Student rate**: $15,000 (88% savings)
-
-**Infrastructure (Monthly): $3,900-6,800**
-- Cloud services: $2,000-3,000
-- LLM API costs: $1,000-2,000
-- SMS gateway: $500-1,000
-- WhatsApp API: $200-400
-- Weather API: $100-200
-- Monitoring: $100-200
-- **Annual**: $46,800-81,600
-
-**Operations (Annual): $29,000-45,000**
-- System maintenance: $10,000-15,000
-- Content updates: $8,000-12,000
-- User support: $6,000-10,000
-- Training: $5,000-8,000
-
-**Year 1 Total**: $90,800-142,600 (with student team discount)
-
-**Cost Optimization**:
-- Caching reduces LLM costs 40-60%
-- Bulk SMS rates with local providers
-- Open-source monitoring/logging
-- Government cloud infrastructure (if available)
-
-### Funding & Cost Structure (Phased Approach)
+### Funding & Cost Structure
 
 Our estimated project cost is based solely on actual engineering requirements and not tied to the $25,000 funding pool. The solution uses a **serverless architecture, AWS Free Tier, and student credits** to keep prototype and pilot costs low. We follow a phased model:
 
@@ -521,18 +491,13 @@ Our estimated project cost is based solely on actual engineering requirements an
 
 ### Contact Information
 
-**Project Lead**: Thabo Mokoena
-- Email: thabo.mokoena@university.ac.ls
-- Phone: +266 5XXX XXXX
-- LinkedIn: linkedin.com/in/thabomokoena
+**Project Lead**: 
+- Email: 
+- Phone: 
+- LinkedIn: 
+**Alternative Contact**: 
 
-**Alternative Contact**: Naledi Khumalo
-- Email: naledi.khumalo@university.ac.ls
-- Phone: +266 5XXX XXXX
-
-**Faculty Advisor**: Dr. Thabiso Ramotsoela
-- Email: t.ramotsoela@university.ac.ls
-- Phone: +266 2XXX XXXX
+**Faculty Advisor**: 
 
 ### References
 
@@ -599,7 +564,7 @@ Available upon request:
 
 ## Conclusion
 
-We are a capable, committed, passionate student team ready to deliver a transformative agricultural chatbot for Lesotho. Our combination of technical skills, agricultural expertise, local knowledge, and cost-effectiveness ($15,000 vs. $50,000-100,000+) makes us uniquely qualified to execute this project successfully.
+We are a capable, committed, passionate student team ready to deliver a transformative agricultural chatbot for Lesotho. Our combination of technical skills, agricultural expertise, local knowledge, and flexible phased funding approach makes us uniquely qualified to execute this project successfully.
 
 **We're not just building a hackathon demo—we're creating a sustainable solution that will serve Lesotho's farmers for years to come.**
 
@@ -614,8 +579,4 @@ We are a capable, committed, passionate student team ready to deliver a transfor
 **Let's build the future of agricultural extension together.**
 
 ---
-
-**Total Pages**: ~35-40 (vs. original ~80-90)
-**Word Count**: ~5,500 (vs. original ~15,000)
-**Line Count**: ~1,800 (vs. original ~4,150)
 
