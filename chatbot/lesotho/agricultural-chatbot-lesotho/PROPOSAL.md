@@ -1447,7 +1447,8 @@ As students, we bring a fresh, innovative perspective combined with cutting-edge
 #### 2. **Cost-Effective Development with Student Resources**
 
 **Budget Efficiency:**
-- **$15,000 budget is highly competitive** compared to commercial development costs ($50,000-100,000+)
+- **Phased funding model ($1,500-26,000)** allows flexibility based on available resources
+- Minimum viable pilot at $1,500-4,000, full national deployment at $20,000-26,000
 - We leverage student academic credits and free tiers:
   - AWS Educate credits ($100-200)
   - GitHub Student Developer Pack (free tools worth $200,000+)
@@ -1598,7 +1599,7 @@ If selected for this hackathon, we commit to:
 
 ✅ **Delivering a functional MVP** within 3 months with core features (chatbot, disease diagnosis, weather alerts)
 
-✅ **Staying within the $15,000 budget** through smart use of student credits, free tiers, and open-source tools
+✅ **Delivering within available budget** through phased approach, smart use of student credits, free tiers, and open-source tools
 
 ✅ **Engaging with farmers and extension workers** throughout development for user-centered design
 
@@ -1614,7 +1615,7 @@ If selected for this hackathon, we commit to:
 
 ### Conclusion
 
-As students, we bring a unique combination of technical excellence, cost-effectiveness, passion for social impact, and commitment to long-term success. Our $15,000 budget represents exceptional value, and our fresh perspective will drive innovation in agricultural extension services for Lesotho. We are not just building a chatbot—we are creating a scalable, sustainable solution that empowers farmers, enhances extension services, and contributes to food security and poverty reduction.
+As students, we bring a unique combination of technical excellence, cost-effectiveness, passion for social impact, and commitment to long-term success. Our phased funding model ($1,500-26,000) ensures we can deliver value at any budget level, and our fresh perspective will drive innovation in agricultural extension services for Lesotho. We are not just building a chatbot—we are creating a scalable, sustainable solution that empowers farmers, enhances extension services, and contributes to food security and poverty reduction.
 
 **We are ready to turn this vision into reality. Select us, and let's transform agricultural extension in Lesotho together.**
 
@@ -2619,115 +2620,49 @@ Our KPIs directly support measurement of progress toward:
 
 ## 8. Budget & Sustainability
 
-### Total Project Budget: $15,000
+### Funding & Cost Structure
 
-As a student team, we have designed a highly cost-effective solution that delivers exceptional value while maintaining production-grade quality. Our $15,000 budget covers complete development, pilot deployment, and 3-month operational costs—representing 86% savings compared to commercial development rates ($56,000-110,000).
+Our estimated project cost is based solely on actual engineering requirements and not tied to the $25,000 funding pool. The solution uses a **serverless architecture, AWS Free Tier, and student credits** to keep prototype and pilot costs low. We follow a phased model:
 
-### Detailed Budget Breakdown
+**Phase 1 (Prototype – $0 to $300)**
+- AWS Free Tier, basic chatbot, CI/CD
+- Core conversational AI with simple NLU
+- SMS integration (test mode)
+- Basic knowledge base
+- **Deliverable**: Functional prototype demonstrating core chatbot capabilities
 
-#### Phase 1: Development (Months 1-3) - $8,000
+**Phase 2 (Pilot – $1,500 to $4,000)**
+- WhatsApp/SMS integration (production)
+- AI image-based disease diagnosis
+- Weather alerts integration
+- Basic analytics dashboard
+- Pilot deployment (2-3 districts, 100-300 farmers)
+- **Deliverable**: Production-ready MVP with core AI features
 
-**Team Compensation: $5,000**
-- 4 student developers working part-time (20 hours/week each)
-- Roles: AI/ML Engineer, Full-Stack Developer, Data Scientist, UX/Product Designer
-- $1,250 per student for 3 months
-- Passion-driven work focused on learning and social impact
+**Phase 3 (Scale – $8,000 to $12,000)**
+- Content Management System (CMS)
+- Multi-language support (English + Sesotho)
+- Extension worker training modules (LMS)
+- Market price forecasting
+- Geo-tagging and personalization
+- Advanced analytics and heatmaps
+- Expansion to 5-7 districts (2,000-5,000 farmers)
+- **Deliverable**: Full-featured system ready for wider deployment
 
-**AI/ML Infrastructure: $1,500**
-- **LLM API Costs**: $1,200
-  - OpenAI GPT-4 Turbo for conversational AI (~$800)
-  - AWS Bedrock Claude 3 for image analysis (~$300)
-  - OpenAI embeddings for RAG (~$100)
-  - Offset by AWS Educate credits ($200) and Azure for Students ($100)
-- **Vector Database**: $300
-  - Pinecone free tier for development, paid tier for production
+**Phase 4 (Optional Expansion – $10,000+)**
+- National-level rollout (all 10 districts)
+- Advanced features (voice interface, offline mode)
+- Integration with government systems
+- Comprehensive training and support
+- 10,000+ farmers reached
+- **Deliverable**: Nationwide agricultural extension platform
 
-**Cloud Infrastructure: $800**
-- **AWS Services**: $500
-  - EC2 instances for API server (t3.medium)
-  - RDS PostgreSQL with PostGIS
-  - S3 storage for images and media
-  - Redis ElastiCache for caching
-  - Offset by Google Cloud credits ($300)
-- **Domain & SSL**: $50
-  - Domain registration (.org or .ls)
-  - Let's Encrypt SSL (free)
-- **CDN & Monitoring**: $250
-  - CloudFlare CDN (free tier)
-  - Sentry error tracking (free tier)
-  - Prometheus + Grafana (self-hosted)
+**This phased approach ensures feasibility even with lower funding, while still enabling long-term scalability.**
 
-**Communication Services: $200**
-- **SMS Gateway**: $150
-  - Africa's Talking account setup
-  - Testing credits for development
-- **WhatsApp Business API**: $50
-  - Setup and testing
-
-**Development Tools & Services: $450**
-- **Version Control**: Free (GitHub Student Pack)
-- **CI/CD**: Free (GitHub Actions)
-- **Project Management**: Free (Notion, Trello)
-- **Design Tools**: Free (Figma for Students)
-- **Testing & QA**: $200 (load testing tools, user testing incentives)
-- **Documentation**: $150 (technical writing, video tutorials)
-- **Miscellaneous**: $100 (APIs, libraries, services)
-
-#### Phase 2: Pilot Deployment (Months 4-6) - $5,000
-
-**Operational Costs: $3,900**
-- **LLM API Costs**: $1,800 ($600/month × 3 months)
-  - Estimated 50,000 queries from 100-200 pilot farmers
-  - Aggressive caching reduces costs by 50%
-  - Average cost: $0.036 per query
-- **SMS Costs**: $900 ($300/month × 3 months)
-  - 100-200 farmers × 2 messages/week × 4 weeks × $0.03/SMS
-  - Weather alerts, disease notifications, market updates
-- **Cloud Infrastructure**: $1,200 ($400/month × 3 months)
-  - Scaled resources for pilot users
-  - Database, storage, compute, caching
-
-**Support & Maintenance: $600**
-- Bug fixes and system improvements
-- Content updates and knowledge base expansion
-- User support and troubleshooting
-- Performance optimization
-
-**Training & Onboarding: $300**
-- Extension worker training materials (videos, guides)
-- Farmer onboarding SMS campaigns
-- Demo sessions and workshops
-- Printed quick reference guides
-
-**Monitoring & Analytics: $200**
-- Performance monitoring tools
-- User analytics and feedback collection
-- Impact measurement surveys
-- Data visualization dashboards
-
-#### Phase 3: Contingency & Reporting - $2,000
-
-**Contingency Fund: $1,000**
-- API cost overages (if usage exceeds estimates)
-- Additional storage or compute resources
-- Unexpected technical challenges
-- Third-party service costs
-
-**Travel & Field Work: $500**
-- Travel to pilot districts for user testing (if needed)
-- Farmer focus group sessions
-- Extension worker training workshops
-- Ministry stakeholder meetings
-
-**Documentation & Reporting: $300**
-- Final project report and impact assessment
-- Technical documentation for handover
-- User manuals and training materials
-- Open-source code documentation
-
-**Buffer: $200**
-- Miscellaneous expenses
-- Last-minute needs
+**Funding Flexibility**:
+- **Minimum viable funding**: $1,500-4,000 (Phase 2 pilot)
+- **Recommended funding**: $10,000-16,000 (Phases 2-3 for meaningful scale)
+- **Full deployment funding**: $20,000-26,000 (All phases for national reach)
 
 ### Cost Optimization Strategies
 
@@ -2792,59 +2727,7 @@ As a student team, we have designed a highly cost-effective solution that delive
 
 | Component | Commercial Rate | Student Budget | Savings |
 |-----------|----------------|----------------|---------|
-| **Development Team** | $50,000-80,000 | $5,000 | 90-94% |
-| **AI/ML Infrastructure** | $5,000-10,000 | $1,500 | 70-85% |
-| **Cloud Infrastructure** | $3,000-5,000 | $800 | 73-84% |
-| **Pilot Operations** | $8,000-15,000 | $3,900 | 51-74% |
-| **Support & Training** | $5,000-10,000 | $900 | 82-91% |
-| **Contingency** | $5,000-10,000 | $2,000 | 60-80% |
-| **TOTAL** | **$76,000-130,000** | **$15,000** | **88% savings** |
-
-### Alternative Phased Funding Model
-
-Our estimated project cost is based solely on actual engineering requirements and not tied to the $25,000 funding pool. The solution uses a **serverless architecture, AWS Free Tier, and student credits** to keep prototype and pilot costs low. We follow a phased model:
-
-**Phase 1 (Prototype – $0 to $300)**
-- AWS Free Tier, basic chatbot, CI/CD
-- Core conversational AI with simple NLU
-- SMS integration (test mode)
-- Basic knowledge base
-- **Deliverable**: Functional prototype demonstrating core chatbot capabilities
-
-**Phase 2 (Pilot – $1,500 to $4,000)**
-- WhatsApp/SMS integration (production)
-- AI image-based disease diagnosis
-- Weather alerts integration
-- Basic analytics dashboard
-- Pilot deployment (2-3 districts, 100-300 farmers)
-- **Deliverable**: Production-ready MVP with core AI features
-
-**Phase 3 (Scale – $8,000 to $12,000)**
-- Content Management System (CMS)
-- Multi-language support (English + Sesotho)
-- Extension worker training modules (LMS)
-- Market price forecasting
-- Geo-tagging and personalization
-- Advanced analytics and heatmaps
-- Expansion to 5-7 districts (2,000-5,000 farmers)
-- **Deliverable**: Full-featured system ready for wider deployment
-
-**Phase 4 (Optional Expansion – $10,000+)**
-- National-level rollout (all 10 districts)
-- Advanced features (voice interface, offline mode)
-- Integration with government systems
-- Comprehensive training and support
-- 10,000+ farmers reached
-- **Deliverable**: Nationwide agricultural extension platform
-
-**This phased approach ensures feasibility even with lower funding, while still enabling long-term scalability.**
-
-**Funding Flexibility**:
-- **Minimum viable funding**: $1,500-4,000 (Phase 2 pilot)
-- **Recommended funding**: $10,000-16,000 (Phases 2-3 for meaningful scale)
-- **Full deployment funding**: $20,000-26,000 (All phases for national reach)
-
-### Why $15,000 is Sufficient
+### Why Our Phased Approach Works
 
 **1. Student Time is Passion-Driven**
 - We are motivated by learning, impact, and portfolio building
