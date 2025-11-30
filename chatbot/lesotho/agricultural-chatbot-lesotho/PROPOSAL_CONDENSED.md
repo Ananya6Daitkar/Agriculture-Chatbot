@@ -514,10 +514,7 @@ Available upon request:
 
 ### Appendix A: Technical Specifications Summary
 
-**Complete technical documentation available in project repository**:
-- **Requirements Document** (`.kiro/specs/agricultural-chatbot-lesotho/requirements.md`): 16 major requirements with EARS-compliant acceptance criteria
-- **Design Document** (`.kiro/specs/agricultural-chatbot-lesotho/design.md`): Comprehensive architecture, component interfaces, data models
-- **Implementation Tasks** (`.kiro/specs/agricultural-chatbot-lesotho/tasks.md`): 25 major tasks, 100+ sub-tasks with detailed breakdown
+
 
 **Architecture Highlights**:
 - Microservices architecture: User Channels → API Layer → Core Services → AI Services → Management Layer → Data Layer

@@ -2266,19 +2266,8 @@ We'll share our learnings, open-source components, and help other countries repl
 
 ### Team Contact Information
 
-**Project Lead**: Thabo Mokoena
-- Email: thabo.mokoena@university.ac.ls
-- Phone: +266 5XXX XXXX
-- LinkedIn: linkedin.com/in/thabomokoena
-
-**Alternative Contact**: Naledi Khumalo (Backend Lead)
-- Email: naledi.khumalo@university.ac.ls
-- Phone: +266 5XXX XXXX
-
-**Faculty Advisor**: Dr. Thabiso Ramotsoela
-- Email: t.ramotsoela@university.ac.ls
-- Phone: +266 2XXX XXXX
-
+**Project Lead**: 
+**Alternative Contact**:
 ---
 
 ### References and Recommendations
